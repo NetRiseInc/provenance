@@ -1,0 +1,6 @@
+74e6e5adb5722192e147e07e6ef78b3c385135748a6b97abe7eaa251d638c806  netrise-aarch64-apple-darwin.tar.gz
+de5a5d1e212571bcdab7677a1e48e46ddbd40a9973573094be8719ba36e31030  netrise-aarch64-unknown-linux-gnu.tar.gz
+4d56ad9a2934c32461e9e2cf8f181ebb128986e9e226e2d786fab1d39da56c7b  netrise-x86_64-apple-darwin.tar.gz
+257d5f68ebbba83483cdc3010cfd8ae9d74b4eed990a5b945595ffdca47e1e36  netrise-x86_64-pc-windows-msvc.zip
+60b1a3c5571ffd37ec321dba445cb27ad0181749fdd984eb31279ec3cd924178  netrise-x86_64-unknown-linux-gnu.tar.gz
+4b19b2533a818cb55fe1cfc53fd79bb5c1e18f858738a5646b21bbcce8ba741c  netrise-x86_64-unknown-linux-musl.tar.gz
